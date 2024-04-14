@@ -1,5 +1,5 @@
 # Generative-AI-for-Everyone
-https://www.deeplearning.ai/courses/generative-ai-for-everyone/
+
 Taught by AI genius Andrew NG, this course entails the cutting edge topics such as:-
 1. How generative AI works including what in Can and Can't do. 
 2. Common uses cases such as Reading, Writing, and Chatting.
