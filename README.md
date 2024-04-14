@@ -11,3 +11,9 @@ Taught by AI genius Andrew NG, this course entails the cutting edge topics such 
 
 ## Solution to Quizzes and Code Activities 
 * [Week 1 Quiz 1](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%201/Week%201%20Quiz%201%20What%20is%20Generative%20AI.pdf)
+* [Week 1 Quiz 2](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%201/Week%201%20Quiz%202%20Generative%20AI%20applications.pdf)
+* [Week 2 Quiz 1](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%202/Week%202%20Quiz%201%20Software%20Applications.pdf)
+* [Week 2 Quiz 2](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%202/Week%202%20Quiz%202%20Advanced%20technologies%20Beyond%20prompting.pdf)
+* [Week 2 Code Activity 1](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%202/GENAI4E_Activity%201.ipynb)
+* [Week 2 Code Activity 2](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%202/GENAI4E_Activity2.ipynb)
+
