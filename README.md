@@ -10,3 +10,4 @@ Taught by AI genius Andrew NG, this course entails the cutting edge topics such 
 
 
 ## Solution to Quizzes and Code Activities 
+* [Week 1 Quiz 1](https://github.com/Rabbia-Hassan/Generative-AI-for-Everyone/blob/master/Week%201/Week%201%20Quiz%201%20What%20is%20Generative%20AI.pdf)
