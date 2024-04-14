@@ -7,3 +7,6 @@ Taught by AI genius Andrew NG, this course entails the cutting edge topics such 
 4. Advanced Technology options such as RAG, Fine tunning, and Pre-Training. 
 5. Implications of GenAI on business and Society.
 6. Responsible AI.
+
+
+## Solution to Quizzes and Code Activities 
