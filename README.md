@@ -36,7 +36,7 @@ Taught by AI genius Andrew NG, this course entails the cutting edge topics such 
 
 ## Certificate
 
-- [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/FP4FM9KZT4F9)
+- [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/FP4FM9KZT4F9)
 
 ---------------------------------------------------------------------------------------------
 
